@@ -1,8 +1,6 @@
 @import "bootstrap";
 
-* {
-  overflow-y: hidden; // hide vertical
-}
+
 
 .navbar {
   background-color: black !important;
@@ -31,6 +29,7 @@
   background-size: cover;
   height: 500px;
 }
+
 
 footer {
   padding-top: 5px;
